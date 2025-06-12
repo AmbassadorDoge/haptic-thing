@@ -10,3 +10,7 @@ First time making PCB, might as well make it something I can play with. This is 
 - Battery Holder/Battery
 - Resistor(220 ohm)
 
+
+
+## Slack
+U08F1KG2YFK @doge
