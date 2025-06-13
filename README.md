@@ -9,6 +9,8 @@ First time making PCB, might as well make it something I can play with. This is 
 - Haptic Motor
 - Battery Holder/Battery
 - Resistor(220 ohm)
+- Resistor(2k ohm)
+- NPN Transistor
 
 
 
