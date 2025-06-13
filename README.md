@@ -14,6 +14,7 @@ First time making PCB, might as well make it something I can play with. This is 
 
 ## 3D View
 ![picture](pcbss.png)
+Note: Yes, I know that M1 and R1 block the battery holder in the picture, but I'm not actually going to solder the headers on.
 
 ## PCB
 ![anopic](stuffss.png)
