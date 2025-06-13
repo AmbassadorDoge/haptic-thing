@@ -12,7 +12,14 @@ First time making PCB, might as well make it something I can play with. This is 
 - Resistor(2k ohm)
 - NPN Transistor
 
+## 3D View
+![picture](pcbss.png)
 
+## PCB
+![anopic](stuffss.png)
+
+## Schematic
+![anoanopic](schess.png)
 
 ## Slack
 U08F1KG2YFK @doge
